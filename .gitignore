@@ -1,0 +1,9 @@
+# Ignore all node_modules folders inside any project
+**/node_modules/
+
+# Ignore .env files (if each project has one)
+**/.env
+
+# Optional: log files or dist folders
+**/*.log
+**/dist/

@@ -1,0 +1,17 @@
+{
+  "name": "llm_with_code",
+  "version": "1.0.0",
+  "main": "LLM.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^1.8.0",
+    "dotenv": "^17.0.1",
+    "readline-sync": "^1.4.10"
+  }
+}
